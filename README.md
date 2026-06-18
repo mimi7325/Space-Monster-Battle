@@ -3,18 +3,17 @@
 Este videojuego es el proyecto final desarrollado para el curso internacional **Code in Place**, un programa de introducción a la programación de la **Universidad de Stanford** basado en el material de su célebre curso CS106A. 
 
 El proyecto aplica fundamentos sólidos de lógica de programación, diseño de software estructurado y gestión de interfaces gráficas.
----
+
 ## 🚀 Características Clave
 * **Lógica de Batalla:** Implementación de flujos de control complejos, bucles dinámicos y manejo de eventos/turnos.
 * **Estructuras de Datos:** Uso estratégico de listas y diccionarios para gestionar el estado de los monstruos, estadísticas de juego y puntuaciones.
 * **Interfaz Gráfica:** Diseño visual interactivo utilizando herramientas y librerías de Python.
 
----
+
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje:** Python 3
 * **Entorno:** Stanford Code in Place (CS106A Framework)
 
----
 ## 🕹️ Cómo Ejecutar el Juego Localmente
 
 Si deseas probar el videojuego en tu computadora, sigue estos pasos:
